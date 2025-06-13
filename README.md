@@ -25,11 +25,6 @@ As for **databases**, I work confidently with both **SQL (PostgreSQL)** and **No
 
 ---
 
-Joined GitHub **{{ ACCOUNT_AGE }}** years ago.  
-Since then I pushed **{{ COMMITS }}+** commits, opened **{{ ISSUES }}+** issues, submitted **{{ PULL_REQUESTS }}+** pull requests, created **{{ GISTS }}+** gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}+** public repositories.
-
----
-
 <h3 align="left">✨ Random Dev Quote:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
