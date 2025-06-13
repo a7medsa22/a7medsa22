@@ -1,56 +1,74 @@
-## Hey 👋, I'm Ahmed Salah!
+## Hey there 👋, I'm [Ahmed Salah!](https://github.com/a7medsa22)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Back-End+Developer;Node.js+%7C+Java+%7C+MongoDB+%7C+Express;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-salah-54822625a)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ahmed_salah_sotohy)
 
-<!-- Make sure banner.png is uploaded to your repo -->
-<img src="https://raw.githubusercontent.com/a7medsa22/a7medsa22/main/banner.png" alt="banner" width="100%"/>
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medsa22&label=Profile%20views&color=0e75b6&style=flat" alt="a7medsa22" /> </p>
 
-I’m a back-end developer passionate about building scalable web applications and learning new technologies 🚀. I enjoy solving problems, writing clean code, and working on meaningful projects.
+I’m a **Back-End Developer** passionate about building scalable web applications and clean APIs.  
+Currently exploring the world of **Node.js, Express, MongoDB**, and deploying full-stack apps. 🚀
 
----
+🧠 Constantly learning, solving real-world problems, and working on projects like:
 
-### 🔍 More About Me:
+- 🛒 **[E-Commerce App](https://github.com/a7medsa22)**  
+- ✅ **[Task Manager App](https://github.com/a7medsa22)**
 
-- 🔬   Currently working on **E-Commerce** and **Task Manager** projects  
-- 🤝   Looking to collaborate on backend-focused or full-stack projects  
-- 🧠   Currently learning **DevOps**, **TypeScript**, and sharpening **problem-solving with algorithms**  
-- 👨‍🎓   I'm a Computer Science student at **Assiut University**, graduating July 2026  
-- 👨‍💻   Most of my code is on [GitHub](https://github.com/a7medsa22)  
-- 💬   Ask me about anything related to **Node.js**, **MongoDB**, or **Express.js**  
-- 📫   You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-salah-54822625a) or [Instagram](https://www.instagram.com/ahmed_salah_sotohy)  
-- 📝   [Download my CV](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)  
+Outside of code, you'll find me watching tech tutorials and exploring new backend tools.
 
 ---
 
-### 🔨 Languages and Tools:
+📊 **GitHub Stats**:
 
-<a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42px" alt="Java"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42px" alt="Python"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42px" alt="C++"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42px" alt="HTML5"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42px" alt="Node.js"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42px" alt="Git"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42px" alt="MongoDB"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42px" alt="Express" style="background:white; padding:2px; border-radius:6px"/></a>
+<details>
+  <summary><b>⚡ My Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a7medsa22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medsa22&layout=compact&langs_count=8&hide_border=true"/>
+</details>
 
-<br><br>
-
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/a7medsa22">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="GitHub stats overview"/>
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="Most used languages"/>
-</a>
+<details>
+  <summary><b>🔥 Streak</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medsa22&hide_border=true" />
+</details>
 
 ---
 
-### 🛠️ My Projects
+<img align="right" height="250" width="375" alt="Ahmed at desk" src="coder.gif" />
 
-- [Task Manager](https://github.com/a7medsa22/task-manager)
-- [E-Commerce](https://github.com/a7medsa22/e-commerce)
+### 🚀 About Me:
+
+- 🔭 &nbsp; Currently building RESTful APIs with Node.js & MongoDB  
+- 💬 &nbsp; Ask me about Java, C++, Python, or Express.js  
+- 📫 &nbsp; Reach me: laslsalsa123@gmail.com  
+- 🎓 &nbsp; Information Technology student at Assiut University  
+- 🌐 &nbsp; Love contributing to open source and learning DevOps!
 
 ---
 
-Thanks for stopping by! Feel free to connect ✨
+### 🛠 Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VSCode"></code>
+
+---
+
+### ✨ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
+<div align="center">
+  
+### 💙 If you like my work, consider giving a ⭐ to my repos!
+
+</div>
