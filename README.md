@@ -4,14 +4,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ahmed_salah_sotohy)
 
 
-I'm a passionate **Back-End Developer** with a strong focus on building scalable, secure, and high-performance web applications.  
-Currently, I’m working on full-featured Node.js-based projects like **E-Commerce platforms** and **Task Management systems**, where I handle everything from authentication and routing to database design and performance optimization.
+I'm a passionate back-end developer with a strong focus on building secure, scalable, and high-performance web applications. I specialize in writing clean, efficient, and maintainable code, with a deep understanding of authentication, API design, error handling, and database optimization.
 
-What excites me most is **problem-solving** — breaking down complex requirements into clean, efficient, and testable code. I thrive on logic, structure, and designing systems that just work. Whether it’s writing robust APIs or crafting optimized database queries, I aim to write backend code that’s not just functional but also maintainable and future-proof.
+I'm confident working across both SQL (PostgreSQL) and NoSQL (MongoDB) databases, and I know how to choose the right model for performance and flexibility. I’m also comfortable in both Windows and Linux environments, using CLI tools to streamline development and deployment.
 
-On the **systems side**, I’m comfortable working across **Windows and Linux environments**, automating workflows, and using CLI tools to speed up development and deployment.
-
-As for **databases**, I work confidently with both **SQL (PostgreSQL)** and **NoSQL (MongoDB)** technologies. I know when to use relational data models with joins and constraints, and when to go document-based for flexibility and performance.
 
 🧰 **My toolkit includes**:
 - **Languages**: JavaScript (Node.js), Java, Python  
