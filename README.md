@@ -56,20 +56,7 @@ I'm confident working across both SQL (PostgreSQL) and NoSQL (MongoDB) databases
 ---
 
 ### Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="24" style="margin-right:10px;">
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" height="24" style="margin-right:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VS Code" height="24" style="margin-right:10px;">
-</p>
-
+ wait...
 ---
 
 ### Projects and Dev Stuffs:
