@@ -57,7 +57,6 @@ I'm confident working across both SQL (PostgreSQL) and NoSQL (MongoDB) databases
 
 ### Languages and Tools:
 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="30" style="padding-right:10px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="30" style="padding-right:10px;">
