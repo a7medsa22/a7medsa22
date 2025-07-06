@@ -11,7 +11,7 @@ I'm confident working across both SQL (PostgreSQL) and NoSQL (MongoDB) databases
 
 🧰 **My toolkit includes**:
 - **Languages**: JavaScript (Node.js), Java, Python  
-- **Frameworks & Tools**: Express.js, MongoDB, PostgreSQL, Git, VS Code, Postman  
+- **Frameworks & Tools**: NestJS, Express.js, MongoDB, PostgreSQL, Git, VS Code, Postman  
 - **Interests**: DevOps basics, RESTful APIs, clean architecture, testing, error handling, and logging
 
 ---
@@ -39,7 +39,7 @@ I'm confident working across both SQL (PostgreSQL) and NoSQL (MongoDB) databases
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; Working with Node.js, Express, MongoDB, PostgreSQL, and Java
+- 🛠 &nbsp; Working with Node.js, NestJS, Express, MongoDB, PostgreSQL, and Java
 - 🚀 &nbsp; Exploring GitHub Actions, Docker, and backend architecture
 - 💬 &nbsp; Ask me anything [here](https://github.com/a7medsa22/a7medsa22/issues)
 - 👾 &nbsp; Fun fact: I started programming with C++ and fell in love with backend logic
@@ -57,15 +57,19 @@ I'm confident working across both SQL (PostgreSQL) and NoSQL (MongoDB) databases
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VS Code"></code>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="30" style="padding-right:10px;">
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" height="30" style="padding-right:10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VS Code" height="30" style="padding-right:10px;">
+</p>
 
 ---
 
