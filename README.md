@@ -55,10 +55,10 @@ tools: ["Git", "VS Code", "Postman", "MongoDB Compass", "Swagger"]
 
 ### 🎯 About Me
 
-- 🛠️ &nbsp; Working with **Node.js**, **NestJS**, **Docker**, and **AI integrations**
-- 🧮 &nbsp; Strong foundation in **Data Structures**, **Algorithms**, and **OOP principles**
-- 🚀 &nbsp; Exploring **MCP protocol**, **GitHub Actions**, and **cloud architecture**  
-- 🤖 &nbsp; Building intelligent systems that combine backend expertise with AI
+- 🛠️ &nbsp; Working with **Node.js**, **NestJS**, **Docker**,and **AI integrations**
+- 🧮 &nbsp; Strong foundation in **Data Structures**, **Algorithms**,and **OOP**
+- 🚀 &nbsp; Exploring**MCP protocol**,**GitHub Actions**,and**cloud architecture**  
+- 🤖 &nbsp; Building intelligent systems't combine backend expertise with AI
 - 💬 &nbsp; Ask me about backend development, AI integration, or containerization [here](https://github.com/a7medsa22/a7medsa22/issues)
 - 👾 &nbsp; Fun fact: Started with C++, evolved to full-stack, now diving deep into AI-powered backends
 - 📫 &nbsp; Reach me at: [laslsalsa123@gmail.com](mailto:laslsalsa123@gmail.com)
@@ -121,14 +121,25 @@ tools: ["Git", "VS Code", "Postman", "MongoDB Compass", "Swagger"]
 
 ### 📊 GitHub Analytics
 
-
 <details>
-  <summary><b>⚡ GitHub Stats</b></summary>
-  <br />
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a7medsa22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medsa22&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-  </p>
+ <summary><b>⚡ GitHub Stats</b></summary>
+<p align="center">
+  <!-- Stats card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=a7medsa22&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800&v=1"
+    alt="GitHub Stats"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medsa22&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800&v=1"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
 </details>
 
 
