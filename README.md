@@ -14,7 +14,7 @@ Currently exploring **MCP (Model Context Protocol)** for advanced AI system inte
 ### 🚀 What I'm Currently Working On
 
 - 🤖 **AI Knowledge Hub** - Building intelligent systems using MCP protocol
-- 🛒 **E-commerce Solutions** - Full-stack applications with advanced backend features  
+- 🏥 **MediSync** A comprehensive healthcare management platform built with NestJS that streamlines medical appointments
 - 🐳 **Containerized Applications** - Docker deployments and DevOps practices
 - 🧮 **Algorithm Implementations** - Data structures and problem-solving challenges
 
