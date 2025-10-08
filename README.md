@@ -2,7 +2,9 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-salah-54822625a)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Ahmed5e)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:laslsalsa123@gmail.com)
+
 
 
 I'm a passionate **Backend Developer** specializing in building secure, scalable, and high-performance web applications.I have a strong foundation in **Computer Science fundamentals**, and **Data Structures & Algorithms, and I have implementing **clean architecture** patterns.
