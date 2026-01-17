@@ -15,8 +15,8 @@ Currently exploring **MCP (Model Context Protocol)** for advanced AI system inte
 
 ### 🚀 What I'm Currently Working On
 
+- 🔐  **Software Architecture** - System built with Clean Architecture and DDD principles. 
 - 🤖 **AI Knowledge Hub** - Building intelligent systems using MCP protocol
-- 🏥 **MediSync** A comprehensive healthcare management platform built with NestJS that streamlines medical appointments
 - 🐳 **Containerized Applications** - Docker deployments and DevOps practices
 - 🧮 **Algorithm Implementations** - Data structures and problem-solving challenges
 
@@ -27,13 +27,14 @@ Currently exploring **MCP (Model Context Protocol)** for advanced AI system inte
 
 **Languages & Frameworks:**                                       
 const techStack = {                                          
-languages: ["C/C++" ,"JavaScript (Node.js)", "Java", "Python", "TypeScript"],            
-frameworks: ["NestJS", "Express.js", "Next" , "Django"],                 
-databases: ["PostgreSQL", "MongoDB", "Redis", "SqlServer"],           
+languages: ["C/C++" ,"JS"/"TS", "Java", "Python"],            
+frameworks: ["NestJS", "Express.js", "Next" , "Django"],                             
+Architecture & Design: ["Layered", "Hexagonal", "Onion", "Clean", "Modular Architectures", "MVC", "Testing Strategies"],                    
+databases: ["Database Design","PostgreSQL", "MongoDB", "Redis", "SqlServer"],           
 containerization: ["Docker", "Docker Compose"],          
-ai_integration: ["MCP Protocol", "Groq" , "Ollama" , "Langchain"], 
+ai_integration: ["MCP Protocol", "Groq" , "Ollama"],                                         
 cs_fundamentals: ["Data Structures", "Algorithms", "OOP Design Patterns"],                                                      
-tools: ["Git", "VS Code", "Postman", "MongoDB Compass", "Swagger"]             
+tools: ["Linux CLI","Git","Docker" ,"VS Code", "Postman", "MongoDB Compass", "Swagger","CI/CD"]             
 }
 
 
@@ -59,7 +60,7 @@ tools: ["Git", "VS Code", "Postman", "MongoDB Compass", "Swagger"]
 
 - 🛠️ &nbsp; Working with **Node.js**, **NestJS**, **Docker**,and **AI integrations**
 - 🧮 &nbsp; Strong foundation in **Data Structures**, **Algorithms**,and **OOP**
-- 🚀 &nbsp; Exploring**MCP protocol**,**GitHub Actions**,and**cloud architecture**  
+- 🚀 &nbsp; Exploring**MCP protocol**,**GitHub Actions**,and**cloud** **architecture**  
 - 🤖 &nbsp; Building intelligent systems't combine backend expertise with AI
 - 💬 &nbsp; Ask me about backend development, AI integration, or containerization [here](https://github.com/a7medsa22/a7medsa22/issues)
 - 👾 &nbsp; Fun fact: Started with C++, evolved to full-stack, now diving deep into AI-powered backends
